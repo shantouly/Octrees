@@ -24,7 +24,7 @@
 ## Main application scenarios 主要应用场景  
   碰撞检测、视锥体剔除（可以快速确定哪些物体在相机视锥体内，哪些在外，从而渲染不必要的物体）、AI的行为决策、地图的管理  
 ## A-star pathfinding algorithm A星寻路算法  
-  https://github.com/shantouly/Astar该篇有介绍A星寻路，也有demo  
+  https://github.com/shantouly/Astar 该篇有介绍A星寻路，也有demo  
 ## Application of Octree Combined with A-star Routing Algorithm 八叉树结合AStar  
   In 3D space, the efficiency of A * decreases as the complexity of the space increases.  
   In this case, introducing an octree can significantly improve the performance of Astar  
